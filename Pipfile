@@ -10,6 +10,11 @@ ipython = "*"
 flask = "*"
 python-dotenv = "*"
 flask-wtf = "*"
+flask-sqlalchemy = "*"
+flask-migrate = "*"
+pip = "==18.1"
+wheel = "==0.32.3"
+setuptools = "==40.6.3"
 
 [requires]
 python_version = "3.7"
