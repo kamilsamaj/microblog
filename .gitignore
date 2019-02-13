@@ -115,3 +115,6 @@ bundle.zip
 packaged-template.yaml
 output
 __version__.py
+
+# logs
+logs
